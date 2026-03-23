@@ -94,6 +94,12 @@ La skill funciona en **español** e **inglés**. Claude adapta el idioma según 
 - Evaluación de alternativas estratégicas
 - Resolución de problemas persistentes que resisten soluciones convencionales
 
+## Por qué esta skill
+
+He escrito un artículo en LinkedIn explicando la motivación detrás de este proyecto, qué es una skill de Claude y cómo se ha diseñado la metodología CPS:
+
+👉 [He enseñado a Claude a resolver problemas complejos (y tú también puedes)](https://www.linkedin.com/posts/jorgeordovas_cpslive2026-activity-7441915633513971712-E0jF)
+
 ## Licencia
 
 MIT — ver [LICENSE](LICENSE).
