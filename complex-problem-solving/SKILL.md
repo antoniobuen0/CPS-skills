@@ -1,18 +1,12 @@
 ---
 name: complex-problem-solving
 description: >
-  Metodología rigurosa de Resolución de Problemas Complejos (CPS) que integra Problem Solving Estratégico (Nardone),
-  Cynefin, Pensamiento Sistémico, Estrategia (Rumelt), Sesgos Cognitivos (Kahneman/Munger), Creatividad (De Bono),
-  Wardley Mapping y Jobs to Be Done. Usa esta skill SIEMPRE que el usuario pida: analizar un problema complejo,
-  diagnosticar una situación, diseñar una estrategia, evaluar alternativas, resolver un reto de negocio o tecnología,
-  arrancar un proyecto complejo, analizar una transformación organizacional, o cualquier tarea que implique incertidumbre,
-  múltiples causas raíz, stakeholders en conflicto o información ambigua. También cuando mencione "CPS", "problem solving",
-  "diagnóstico estratégico", "análisis de causas raíz", "root cause", "análisis de situación", "cómo resolver", "qué está
-  fallando", "por qué no funciona", "evaluar opciones", "tomar una decisión difícil" o frases similares. Funciona en
-  español e inglés. // Rigorous Complex Problem Solving methodology. Use whenever the user asks to analyze a complex
-  problem, diagnose a situation, design a strategy, evaluate alternatives, solve a business or technology challenge,
-  kick off a complex project, or any task involving uncertainty, multiple root causes, conflicting stakeholders, or
-  ambiguous information.
+  Complex Problem Solving (CPS) methodology integrating Nardone, Cynefin, Rumelt, Meadows, Kahneman, De Bono, Wardley Mapping and JTBD.
+  Use this skill ALWAYS when the user asks to: analyze a complex problem, diagnose a situation, design a strategy, evaluate alternatives,
+  solve a business or technology challenge, kick off a complex project, analyze organizational transformation, or any task involving
+  uncertainty, multiple root causes, conflicting stakeholders, or ambiguous information. Also trigger on: "CPS", "problem solving",
+  "root cause", "diagnóstico", "análisis de situación", "qué está fallando", "por qué no funciona", "evaluar opciones",
+  "tomar una decisión difícil", "cómo resolver". Works in Spanish and English.
 ---
 
 # Complex Problem Solving (CPS)

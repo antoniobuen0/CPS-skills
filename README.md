@@ -65,6 +65,13 @@ complex-problem-solving/
 
 ## Instalación
 
+### Cowork (Claude Desktop)
+
+1. Descarga el archivo [`complex-problem-solving.skill`](complex-problem-solving.skill) de este repositorio
+2. Arrastra el archivo a una conversación de Cowork, o bien ábrelo desde el Finder
+3. Aparecerá un botón **"Copy to your skills"** — púlsalo para instalar
+4. La skill estará disponible en todas tus sesiones futuras de Cowork
+
 ### Claude Code
 
 Copia la carpeta `complex-problem-solving/` a tu directorio de skills:
@@ -72,10 +79,6 @@ Copia la carpeta `complex-problem-solving/` a tu directorio de skills:
 ```bash
 cp -r complex-problem-solving/ ~/.claude/skills/
 ```
-
-### Cowork
-
-Empaqueta como `.skill` y usa el botón "Copy to your skills" en el chat.
 
 ## Idiomas
 

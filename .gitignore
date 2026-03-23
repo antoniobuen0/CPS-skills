@@ -18,5 +18,4 @@ benchmark.md
 timing.json
 grading.json
 
-# Packaged skills
-*.skill
+# Packaged skills (keep .skill files in repo for distribution)
