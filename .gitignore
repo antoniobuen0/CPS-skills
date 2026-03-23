@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Workspace artifacts
+*-workspace/
+evals/
+feedback.json
+benchmark.json
+benchmark.md
+timing.json
+grading.json
+
+# Packaged skills
+*.skill
