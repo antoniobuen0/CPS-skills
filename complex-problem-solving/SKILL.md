@@ -1,12 +1,11 @@
 ---
 name: complex-problem-solving
 description: >
-  Complex Problem Solving (CPS) methodology integrating Nardone, Cynefin, Rumelt, Meadows, Kahneman, De Bono, Wardley Mapping and JTBD.
-  Use this skill ALWAYS when the user asks to: analyze a complex problem, diagnose a situation, design a strategy, evaluate alternatives,
-  solve a business or technology challenge, kick off a complex project, analyze organizational transformation, or any task involving
-  uncertainty, multiple root causes, conflicting stakeholders, or ambiguous information. Also trigger on: "CPS", "problem solving",
-  "root cause", "diagnóstico", "análisis de situación", "qué está fallando", "por qué no funciona", "evaluar opciones",
-  "tomar una decisión difícil", "cómo resolver". Works in Spanish and English.
+  Complex Problem Solving (CPS) methodology integrating Nardone, Cynefin, Rumelt, Meadows, Kahneman, De Bono, Wardley Mapping, and JTBD.
+  Use when Codex needs a structured approach to analyze an ambiguous business, technology, product, or organizational problem; diagnose a situation;
+  identify root causes; evaluate alternatives; frame a strategy; or guide a complex decision with uncertainty, multiple stakeholders, or incomplete information.
+  Trigger on requests such as "CPS", "problem solving", "root cause", "diagnóstico", "análisis de situación", "qué está fallando",
+  "por qué no funciona", "evaluar opciones", "tomar una decisión difícil", and "cómo resolver". Works in Spanish and English.
 ---
 
 # Complex Problem Solving (CPS)

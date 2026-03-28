@@ -1,0 +1,4 @@
+interface:
+  display_name: "Complex Problem Solving"
+  short_description: "Analyze complex problems with CPS"
+  default_prompt: "Use $complex-problem-solving to analyze this ambiguous business, technology, or organizational problem."
